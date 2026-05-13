@@ -1,3 +1,9 @@
+Grupo: Ruan Miguel 01839500: Ian Medeiros Martins 01803530: Arthur Alexandre 01796891: Vinicius Vicente Ferreira 01799643:
+
+
+
+
+
 # 🖥️ PyOS - Simulador Educacional de Sistema Operacional
 
 ![Status](https://img.shields.io/badge/Status-Educacional-blue)
